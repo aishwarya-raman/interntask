@@ -1,0 +1,52 @@
+{
+  "name": "reactbuttonexample",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://shozeasy.tk/",
+  "dependencies": {
+    "array-move": "^3.0.1",
+    "bootstrap": "^4.3.1",
+    "node": "^14.13.0",
+    "react": "^16.13.1",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-bootstrap": "^1.0.0-beta.11",
+    "react-dom": "^16.13.1",
+    "react-drag-and-drop": "^3.0.0",
+    "react-global-configuration": "^1.4.0",
+    "react-image-picker": "^1.1.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.1.0",
+    "react-select": "^3.1.0",
+    "react-sortable-hoc": "^1.11.0",
+    "react-sortablejs": "^6.0.0",
+    "react-table": "^7.5.1",
+    "react-table-hoc-draggable-columns": "^1.2.5",
+    "semantic-ui-react": "^2.0.0",
+    "sortablejs": "^1.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
